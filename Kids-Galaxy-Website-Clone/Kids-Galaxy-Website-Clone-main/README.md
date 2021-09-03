@@ -11,7 +11,7 @@ Run the website by opening the index.html file in the folder which will direct y
 
 For the Social media Icons 
 <ol>
- <li>Material UI designs have been used</li>
+ <li>Material UI designs</li>
 <li>Kids Galaxy Logo</li>
 <li>Objects.svg</li>
 <li>triangle.svg</li>
@@ -19,5 +19,8 @@ For the Social media Icons
   
 # Screenshots:
 
-![Capture](https://user-images.githubusercontent.com/80825073/131974388-fb9e37e7-8dfd-4d7a-8aaf-f68217d863c2.JPG)
+![image](https://user-images.githubusercontent.com/55940353/132031090-55d1883d-3f02-44dd-b540-e1421f063a64.png)
+
+
+
 
